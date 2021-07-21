@@ -37,3 +37,5 @@
 #database.py #in this file we write the command to connect to our database
 #models.py  #in this file we write classes that represent our database tables
 #crud.py  #in this file we write functions that query our database tables
+
+#python -m pip freeze > requirements.txt
