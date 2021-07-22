@@ -28,7 +28,7 @@
 
 #pip install psycopg2-binary
 
-#pip install -r requirements.txt
+#pip install -r requirements.txt (everytime into the virtual env)
 #also install the files from your requirements.txt file
 #because this is a development environment that goes to sleep
 #we need to re-install those libraries everytime we re-connect with our testing environment after some period of time
