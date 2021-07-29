@@ -1,7 +1,7 @@
 services:
   fastapi:
     public: true
-    image: andiangeline/website:latest
+    image: andiangeline/atom_scripts:latest
     build: .
     replicas: 1
     ports:
