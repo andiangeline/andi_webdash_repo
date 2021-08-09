@@ -5,7 +5,7 @@
 #okteto up
 
 #source webdash2/bin/activate
-#python -m pip freeze > requirements.txt
+#python -m pip freeze > requirements.txt (have to do this everytime when okteto up)
 
 #pip install plotly_express
 #plotly_express can translate graphs into html snippets
